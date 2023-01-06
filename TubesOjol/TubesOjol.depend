@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1672837482 source:c:\nico\joki\std rivan 2022\tubesojol\main.cpp
+	"header.h"
+
+1672838830 source:c:\nico\joki\std rivan 2022\tubesojol\source.cpp
+	"header.h"
+
+1672059261 c:\nico\joki\std rivan 2022\tubesojol\header.h
+	<iostream>
+	"stdlib.h"
+
+1672839181 source:c:\users\asus\downloads\tubesojol (1)\tubesojol\main.cpp
+	"header.h"
+
+1672059261 c:\users\asus\downloads\tubesojol (1)\tubesojol\header.h
+	<iostream>
+	"stdlib.h"
+
+1672839172 source:c:\users\asus\downloads\tubesojol (1)\tubesojol\source.cpp
+	"header.h"
+
